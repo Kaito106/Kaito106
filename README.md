@@ -7,7 +7,7 @@ Hobby: Formula 1, Football, Music
 
 About Me:  
 I am a passionate student interested in learning Python, building real-world projects, and improving my problem-solving skills.
-
+  
 Goals:
 - Learn advanced Python
 - Build GUI and real-world applications
