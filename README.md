@@ -2,7 +2,7 @@
  
 Branch: Computer Science and Engineering in AIML
         at VIT Bhopal University
-Year: 1st Year
+Year: 1st Year  
 Passing Year: 2029
 
 
