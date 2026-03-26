@@ -1,16 +1,22 @@
-## Hi there 👋
+@@ -1,16 +1,17 @@
+# 👋 Hi, I'm Pritam Ghosh
 
-<!--
-**Kaito106/Kaito106** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Branch: Computer Science and Engineering in AIML
+📅 Year: 1st Year  
+Branch: Computer Science and Engineering in AIML
 
-Here are some ideas to get you started:
+💡 About Me:  
+Year: 1st Year  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+About Me:  
+I am a passionate student interested in learning Python, building real-world projects, and improving my problem-solving skills.
+
+🚀 Goals:
+Goals:
+- Learn advanced Python
+- Build GUI and real-world applications
+- Contribute to open-source projects
+
+📫 Connect with me:
+Connect with me:
+- Email: pritamg06k@gmail.com
