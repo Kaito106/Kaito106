@@ -1,4 +1,3 @@
-@@ -1,16 +1,17 @@
 # 👋 Hi, I'm Pritam Ghosh
 
 🎓 Branch: Computer Science and Engineering in AIML
